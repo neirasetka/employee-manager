@@ -1,0 +1,112 @@
+.primaryC {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  justify-content: center;
+  background-image: url(/src/assets/img/team.jpg);
+  background-repeat: no-repeat;
+  padding: 20px;
+}
+.primaryD {
+  display: flex;
+  flex-direction: column;
+}
+.tableData {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 50px;
+  position: relative;
+}
+.tableT {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: black;
+  border-color: orange;
+  text-align: center;
+  position: relative;
+}
+.table {
+  /* display: flex; */
+  flex-direction: column;
+  justify-content: space-between;
+  color: black;
+  border-color: orange;
+  text-align: center;
+  position: relative;
+}
+.table th {
+  margin: 30px;
+  padding: 35px;
+  text-align: center;
+  border: solid;
+  position: relative;
+  color: black;
+}
+.table tr {
+  margin: 20px;
+  padding: 15px;
+  text-align: center;
+  border: solid;
+  color: black;
+}
+.table a {
+  padding: 10px;
+}
+.inputs {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  color: gray;
+  margin: 7px;
+  border-bottom: solid;
+  border-color: silver;
+  border-radius: 1px;
+}
+.formE {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 20px;
+  border: solid;
+  border-color: red;
+  align-content: center;
+  position: relative;
+}
+.mainP {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 70px;
+  position: relative;
+}
+.inputForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+  margin: 20px;
+  align-content: center;
+}
+.buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px;
+  position: relative;
+}
+.showDesc {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color: wheat;
+  padding: 30px;
+  border-top: 2px dashed wheat;
+}
